@@ -1,0 +1,111 @@
+{
+  "profile": {
+    "name": "Radek Gryc",
+    "email": "radek.gryc@gmail.com",
+    "linkedin": "https://linkedin.com/in/radekgryc",
+    "tagline": "I build client relationships and deliver complex things — on time, across borders.",
+    "headline": "Account Management · Client Partnerships · EMEA",
+    "roleTags": ["Account Management", "Client Partnerships", "EMEA"]
+  },
+  "story": {
+    "heading": "The through-line",
+    "body": "Over 10 years I've managed EMEA-wide retail and POS projects for Calvin Klein, Tommy Hilfiger, Karl Lagerfeld, and Adidas — from complex fixture rollouts to bespoke flagship installations. Then moved into digital immersive experiences at an award-winning XR/AI studio. Same through-line: building environments that make people feel something, and making sure they get delivered."
+  },
+  "stats": [
+    { "value": "€5M+", "label": "P&L managed" },
+    { "value": "150+", "label": "stores delivered" },
+    { "value": "10+", "label": "years EMEA" }
+  ],
+  "projects": [
+    {
+      "title": "Calvin Klein Spring/Fall 2022",
+      "scope": "150+ EMEA stores · 6 bespoke flagship installations",
+      "timeline": "10–12 weeks",
+      "pnl": "€5M+ annual",
+      "tags": ["retail", "EMEA", "flagship", "P&L"]
+    },
+    {
+      "title": "Karl Lagerfeld Retail Concepts",
+      "scope": "2 retail concepts · 30+ prototypes",
+      "tags": ["concept", "prototyping", "luxury"]
+    },
+    {
+      "title": "YORD — XR/AI Business Development",
+      "scope": "40–50 prospect pipeline · €500K–€1M opportunity range",
+      "highlights": "Keynote speaker POPAI 2024 · European conferences",
+      "tags": ["XR", "AI", "business development", "immersive"]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Business Developer / Account Executive",
+      "company": "YORD",
+      "dates": "Nov 2024 – Feb 2026",
+      "location": "Prague",
+      "summary": "Leading business development for an award-winning XR/AI studio — pipeline, partnerships, and conference keynotes."
+    },
+    {
+      "role": "Account Director / Client Partner",
+      "company": "Retail Monkeys",
+      "dates": "Mar 2022 – Jun 2024",
+      "location": "Prague",
+      "summary": "Owned senior client relationships and P&L across retail rollout programs for global fashion brands."
+    },
+    {
+      "role": "Senior Account Manager, Team Lead",
+      "company": "EYELEVEL / HH Global",
+      "dates": "Feb 2020 – Jan 2022",
+      "location": "Prague",
+      "summary": "Led the account team delivering EMEA-wide POS and retail programs for Calvin Klein and Tommy Hilfiger."
+    },
+    {
+      "role": "Account Manager / Senior Project Manager",
+      "company": "EYELEVEL",
+      "dates": "Feb 2018 – Jan 2020",
+      "summary": "Scaled complex fixture rollouts across EMEA — from brief to install."
+    },
+    {
+      "role": "Project Manager",
+      "company": "EYELEVEL",
+      "dates": "Jan 2015 – Jan 2018",
+      "summary": "Managed production, suppliers, and installation teams for retail programs across Europe."
+    },
+    {
+      "role": "Logistics Manager",
+      "company": "EYELEVEL",
+      "dates": "Jan 2012 – Jan 2015",
+      "summary": "Coordinated cross-border logistics for retail fit-outs — foundations of the EMEA playbook."
+    }
+  ],
+  "skills": [
+    "Account Management",
+    "Client Partnerships",
+    "P&L Ownership",
+    "EMEA Project Delivery",
+    "Business Development",
+    "Team Leadership",
+    "Supply Chain",
+    "Retail Concepts",
+    "XR/AI",
+    "HubSpot",
+    "AI Tools",
+    "Vibe-coding"
+  ],
+  "interests": [
+    { "name": "Basketball", "icon": "🏀" },
+    { "name": "Beach Volleyball", "icon": "🏐" },
+    { "name": "Golf", "icon": "⛳" },
+    { "name": "Cycling", "icon": "🚴" },
+    { "name": "Tennis", "icon": "🎾" },
+    { "name": "Surfskating", "icon": "🛹" },
+    { "name": "Music Production & DJing", "icon": "🎧" },
+    { "name": "AI & Vibe-coding", "icon": "🤖" },
+    { "name": "Books & Podcasts", "icon": "📚" }
+  ],
+  "contact": {
+    "heading": "Let's talk",
+    "body": "Open to Account Management and Client Partnership roles across EMEA.",
+    "email": "radek.gryc@gmail.com",
+    "linkedin": "https://linkedin.com/in/radekgryc"
+  }
+}
